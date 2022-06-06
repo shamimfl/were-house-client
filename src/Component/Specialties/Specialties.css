@@ -1,0 +1,11 @@
+.bg-div{
+    background-image: url(https://img.freepik.com/free-photo/image-young-asian-businesswoman-answer-phone-call-while-carrying-boxes-delivery-posing-against-white-background_1258-97833.jpg?size=626&ext=jpg&uid=R63877823&ga=GA1.2.32728771.1649750064);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(0.5);
+
+}
+.bg-div img{
+    filter: contrast(10%);
+}
